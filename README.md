@@ -134,10 +134,10 @@ Completar con el enlace publico de Drive o YouTube:
 
 Completar con el enlace al repositorio de GitHub:
 
-`PENDIENTE - pegar aqui el link de GitHub`
+[GitHub](https://github.com/TomasLopezTur/UTN-TUPaD-TP_integrador-Programacion_I-TomasLopezTurconi_MarcosBorquez)
 
 ## Documentacion PDF
 
 El informe academico se incluye en la raiz del proyecto con el nombre:
 
-`Informe_TPI_Gestion_Paises.pdf`
+[Informe del TP Integrador](https://github.com/TomasLopezTur/UTN-TUPaD-TP_integrador-Programacion_I-TomasLopezTurconi_MarcosBorquez/blob/master/Informe_TPI_Gestion_Paises.pdf)
