@@ -149,7 +149,7 @@ def guardar_paises_csv(ruta_csv, paises):
 
 
 def mostrar_paises(paises):
-    """
+    """1
     Muestra una lista de paises en pantalla.
     Se usa para mostrar resultados de busquedas, filtros y ordenamientos.
     """
