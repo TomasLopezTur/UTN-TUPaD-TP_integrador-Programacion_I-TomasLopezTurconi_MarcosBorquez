@@ -128,7 +128,7 @@ Cantidad de paises por continente
 
 Completar con el enlace publico de Drive o YouTube:
 
-`PENDIENTE - pegar aqui el link del video`
+[Video Drive](https://drive.google.com/file/d/1nLtBB2PZe5Rd444vewrshJ7QOeIzqiyu/view?usp=drive_link)
 
 ## Link del repositorio
 
